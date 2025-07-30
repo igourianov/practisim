@@ -1,1 +1,1 @@
-*.STG filter=stg 
+*.STG text diff filter=stg eol=lf

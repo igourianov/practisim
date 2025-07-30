@@ -19,7 +19,9 @@ class Program
 		{
 			Console.OutputEncoding = Encoding.UTF8;
 			using (var output = Console.OpenStandardOutput())
-				WriteSortedJson(Console.In.ReadToEnd(), output);
+			using (var input = Console.OpenStandardInput())
+			using (var reader = new StreamReader(input, true))
+				WriteSortedJson(reader.ReadToEnd(), output);
 			return;
 		}
 
