@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Run stg_normalize",
+			"command": "dotnet run -- \"sample.json\"",
+			"group": "test"
+		}
+	]
+}
