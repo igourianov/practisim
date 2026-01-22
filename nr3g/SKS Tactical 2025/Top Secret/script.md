@@ -3,12 +3,12 @@
 ### Description:
 You're parachuted behind the enemy lines. You must land, retrieve your rifle you've lost during the landing and take out the guards. Then breach the bunker, retrieve the list of targets and eliminate them while staying hidden. Finally, you must escape after bayonetting enemy general.
 
-### Start:
+### Start
 * SKS staged in the dump box (next to the bunker). Empty.
 * *If SKS has no bayonet:* A knife (provided) stashed on the shooter in folded state.
 * Shooter starts in one of the 2 circle boxes. T-pose, facing up range. Holding SKS mag or stripper clip in one hand, and flashbang (provided) in the other.
 
-### Procedure:
+### Procedure
 
 1) Starting in far box(1): Spin 10 times in the same direction while staying in the box. Starting in the near box(2): same thing, but spin 20 times.
 
