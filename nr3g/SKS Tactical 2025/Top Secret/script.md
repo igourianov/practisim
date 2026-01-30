@@ -31,3 +31,7 @@ You're parachuted behind the enemy lines. You must land, retrieve your rifle you
 ### Summary
 * 1 Steel, 6 paper, 1 dummy
 * 23 rounds total
+
+# Layout
+
+![Layout](PXL_20260122_183158612.jpg)
